@@ -9,11 +9,11 @@ namespace AdBreakDetector
         static void Main(string[] args)
         {
             // Directory where frame images will be saved
-            string framesDirectory = "/Users/eshitasuri/Desktop/Frames/data_TV8_int";
+            string framesDirectory = "";
             
 
             // Path to your live stream
-            string liveStreamPath = "http://185.135.41.37/6li/prog_index.m3u8";
+            string liveStreamPath = "add_path_here";
 
             // Run FFmpeg to continuously extract frames from the live stream
             while (true)
