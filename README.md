@@ -33,3 +33,8 @@ The methodology demonstrates high accuracy in identifying commercial breaks.
 Programming Languages: Python, C#
 Libraries & Frameworks: OpenCV, TensorFlow/Keras, Scikit-learn
 Tools: FFmpeg for frame extraction, Manual annotation tools for labeling
+
+
+
+Contributors
+👤 Eshita Suri
